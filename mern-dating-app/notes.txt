@@ -10,3 +10,7 @@ changed MUI import directories, directory in the book didn't work
 had this error:
 Module not found: Error: Can't resolve '@mui/icons-material/Person' in 'D:\MERN-PROJECTS\mern-dating-app\src\components'
 
+installed react-tinder-card
+npm install --save --legacy-peer-deps react-tinder-card
+
+other swipe libraries
