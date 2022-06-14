@@ -5,5 +5,8 @@
 ██║ ╚████║╚██████╔╝   ██║   ███████╗███████║
 ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝
 to add material UI icons npm i @material-ui/core @material-ui/icons
+changed MUI import directories, directory in the book didn't work
 
-                                            
+had this error:
+Module not found: Error: Can't resolve '@mui/icons-material/Person' in 'D:\MERN-PROJECTS\mern-dating-app\src\components'
+
