@@ -1,5 +1,5 @@
 import './App.css';
-import Header from './components/Header.js';
+import Header from './components/header.js';
 import DatingCard from './components/DatingCard';
 import SwipeButton from './components/SwipeButton'
 function App() {
